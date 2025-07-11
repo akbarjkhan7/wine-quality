@@ -1,4 +1,4 @@
-# wine-quality 
+# Wine Quality 
 **Predicting Wine Quality using Machine Learning methods**
 As part of my advanced analytics coursework, I tackled the classic Wine Quality dataset from the UCI Machine Learning Repository, applying modern supervised learning techniques to predict wine quality based on physicochemical properties.
 
