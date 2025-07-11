@@ -29,4 +29,4 @@ Takeaways:
 - Random Forest models are highly effective for quality classification, while Lasso Regression aids interpretability and feature selection.
 - Alcohol content remains the strongest single predictor of wine quality.
 
-🔗 This project deepened my expertise in data cleaning, EDA, model tuning, and validation—core skills for any data scientist!
+This project deepened my expertise in data cleaning, EDA, model tuning, and validation—core skills for any data scientist.
